@@ -68,7 +68,7 @@ Currently pursuing **M.Sc (Mathematics)**
 
 ## Resume
 
-Download Resume - https://github.com/Niketa-dangi/Niketa-dangi/blob/main/Niketa_Dangi_Resume.pdf.pdf
+Download Resume -https://github.com/Niketa-dangi/Niketa-dangi/blob/main/Niketa_Dangi_Resume.pdf
 
 ---
 
