@@ -45,6 +45,7 @@ Python | Pandas | NumPy | Power BI | Excel
 Fraud Transaction Analysis Project - https://github.com/Niketa-dangi/fraud-transaction-analysis-project
 
 Python Learning Journey Repository Link
+
 Python Learning Journey - https://github.com/Niketa-dangi/python-learning-journey
 
 ---
@@ -67,7 +68,7 @@ Currently pursuing **M.Sc (Mathematics)**
 
 ## Resume
 
-Download Resume - file:///C:/Users/Lenovo/Downloads/N%20C%20V.pdf
+Download Resume - https://github.com/Niketa-dangi/Niketa-dangi/blob/main/Niketa_Dangi_Resume.pdf.pdf
 
 ---
 
