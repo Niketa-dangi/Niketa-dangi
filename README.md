@@ -52,8 +52,9 @@ Python Learning Journey - https://github.com/Niketa-dangi/python-learning-journe
 
 ## Education
 
-**B.Sc (PCM)** — 2022 to 2025
-Currently pursuing **M.Sc (Mathematics)**
+**B.Sc (PCM)** — Chaudhary Charan Singh University , Meerut (2022 to 2025)
+
+Currently pursuing **M.Sc (Mathematics)**- Chaudhary Charan Singh University, Meerut (2025-2027)
 
 ---
 
@@ -68,7 +69,7 @@ Currently pursuing **M.Sc (Mathematics)**
 
 ## Resume
 
-Download Resume -https://github.com/Niketa-dangi/Niketa-dangi/blob/main/Niketa_Dangi_Resume.pdf
+Download Resume -https://github.com/Niketa-dangi/Niketa-dangi/blob/main/Niketa%20Dangi%20Resume.pdf
 
 ---
 
